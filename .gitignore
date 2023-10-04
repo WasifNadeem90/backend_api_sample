@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Local development settings
+local_settings.py
+
+# Database
+db.sqlite3
+
+.idea/
+
